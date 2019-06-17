@@ -1,0 +1,27 @@
+"t.x";"t.y";"t.Freq";"prop.row.x";"prop.row.y";"prop.row.Freq";"prop.col.x";"prop.col.y";"prop.col.Freq";"prop.tbl.x";"prop.tbl.y";"prop.tbl.Freq"
+"Hombre";"Bildu";1;"Hombre";"Bildu";0,00471698113207547;"Hombre";"Bildu";0,5;"Hombre";"Bildu";0,00285714285714286
+"Mujer";"Bildu";1;"Mujer";"Bildu";0,0072463768115942;"Mujer";"Bildu";0,5;"Mujer";"Bildu";0,00285714285714286
+"Hombre";"C-P-EUPV";3;"Hombre";"C-P-EUPV";0,0141509433962264;"Hombre";"C-P-EUPV";0,75;"Hombre";"C-P-EUPV";0,00857142857142857
+"Mujer";"C-P-EUPV";1;"Mujer";"C-P-EUPV";0,0072463768115942;"Mujer";"C-P-EUPV";0,25;"Mujer";"C-P-EUPV";0,00285714285714286
+"Hombre";"Ciudadanos";25;"Hombre";"Ciudadanos";0,117924528301887;"Hombre";"Ciudadanos";0,78125;"Hombre";"Ciudadanos";0,0714285714285714
+"Mujer";"Ciudadanos";7;"Mujer";"Ciudadanos";0,0507246376811594;"Mujer";"Ciudadanos";0,21875;"Mujer";"Ciudadanos";0,02
+"Hombre";"Coalicion Canaria";0;"Hombre";"Coalicion Canaria";0;"Hombre";"Coalicion Canaria";0;"Hombre";"Coalicion Canaria";0
+"Mujer";"Coalicion Canaria";1;"Mujer";"Coalicion Canaria";0,0072463768115942;"Mujer";"Coalicion Canaria";1;"Mujer";"Coalicion Canaria";0,00285714285714286
+"Hombre";"EAJ-PNV";5;"Hombre";"EAJ-PNV";0,0235849056603774;"Hombre";"EAJ-PNV";1;"Hombre";"EAJ-PNV";0,0142857142857143
+"Mujer";"EAJ-PNV";0;"Mujer";"EAJ-PNV";0;"Mujer";"EAJ-PNV";0;"Mujer";"EAJ-PNV";0
+"Hombre";"Esquerra Republicana";6;"Hombre";"Esquerra Republicana";0,0283018867924528;"Hombre";"Esquerra Republicana";0,666666666666667;"Hombre";"Esquerra Republicana";0,0171428571428571
+"Mujer";"Esquerra Republicana";3;"Mujer";"Esquerra Republicana";0,0217391304347826;"Mujer";"Esquerra Republicana";0,333333333333333;"Mujer";"Esquerra Republicana";0,00857142857142857
+"Hombre";"Foro(G.Mixto)";1;"Hombre";"Foro(G.Mixto)";0,00471698113207547;"Hombre";"Foro(G.Mixto)";1;"Hombre";"Foro(G.Mixto)";0,00285714285714286
+"Mujer";"Foro(G.Mixto)";0;"Mujer";"Foro(G.Mixto)";0;"Mujer";"Foro(G.Mixto)";0;"Mujer";"Foro(G.Mixto)";0
+"Hombre";"Nueva Canarias";1;"Hombre";"Nueva Canarias";0,00471698113207547;"Hombre";"Nueva Canarias";1;"Hombre";"Nueva Canarias";0,00285714285714286
+"Mujer";"Nueva Canarias";0;"Mujer";"Nueva Canarias";0;"Mujer";"Nueva Canarias";0;"Mujer";"Nueva Canarias";0
+"Hombre";"PdeCat";6;"Hombre";"PdeCat";0,0283018867924528;"Hombre";"PdeCat";0,75;"Hombre";"PdeCat";0,0171428571428571
+"Mujer";"PdeCat";2;"Mujer";"PdeCat";0,0144927536231884;"Mujer";"PdeCat";0,25;"Mujer";"PdeCat";0,00571428571428571
+"Hombre";"Podemos";34;"Hombre";"Podemos";0,160377358490566;"Hombre";"Podemos";0,507462686567164;"Hombre";"Podemos";0,0971428571428571
+"Mujer";"Podemos";33;"Mujer";"Podemos";0,239130434782609;"Mujer";"Podemos";0,492537313432836;"Mujer";"Podemos";0,0942857142857143
+"Hombre";"PP";81;"Hombre";"PP";0,382075471698113;"Hombre";"PP";0,604477611940298;"Hombre";"PP";0,231428571428571
+"Mujer";"PP";53;"Mujer";"PP";0,384057971014493;"Mujer";"PP";0,395522388059701;"Mujer";"PP";0,151428571428571
+"Hombre";"PSOE";47;"Hombre";"PSOE";0,221698113207547;"Hombre";"PSOE";0,55952380952381;"Hombre";"PSOE";0,134285714285714
+"Mujer";"PSOE";37;"Mujer";"PSOE";0,268115942028986;"Mujer";"PSOE";0,44047619047619;"Mujer";"PSOE";0,105714285714286
+"Hombre";"UPN-PP";2;"Hombre";"UPN-PP";0,00943396226415094;"Hombre";"UPN-PP";1;"Hombre";"UPN-PP";0,00571428571428571
+"Mujer";"UPN-PP";0;"Mujer";"UPN-PP";0;"Mujer";"UPN-PP";0;"Mujer";"UPN-PP";0
